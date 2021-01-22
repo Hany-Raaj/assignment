@@ -12,8 +12,6 @@ function kilometerToMeter(num){
     return meter;
 }
 
-var toMeter = kilometerToMeter(15);
-
 
 
 
@@ -28,8 +26,6 @@ function budgetCalculator(ghari, phone, laptop){
     }
     return total;
 }
-
-var totalBudget = budgetCalculator(5, 2, 3);
 
 
 
@@ -59,8 +55,6 @@ function hotelCost(day){
     return bill;
 }
 
-var totalCost = hotelCost(21);
-
 
 
 
@@ -77,5 +71,3 @@ function megaFriend(friends){
     }
     return longestName;
 }
-
-var longestName = megaFriend(["hany", "hanyraaj", "sheikh"]);
