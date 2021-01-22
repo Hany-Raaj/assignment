@@ -29,7 +29,7 @@ function budgetCalculator(ghari, phone, laptop){
     return total;
 }
 
-var totalBudget = budgetCalculator(5, 2, -3);
+var totalBudget = budgetCalculator(5, 2, 3);
 
 
 
